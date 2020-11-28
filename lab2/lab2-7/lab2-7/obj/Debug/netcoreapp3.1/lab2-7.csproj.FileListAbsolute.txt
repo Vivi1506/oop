@@ -1,0 +1,13 @@
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\bin\Debug\netcoreapp3.1\lab2-7.exe
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\bin\Debug\netcoreapp3.1\lab2-7.deps.json
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\bin\Debug\netcoreapp3.1\lab2-7.runtimeconfig.json
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\bin\Debug\netcoreapp3.1\lab2-7.runtimeconfig.dev.json
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\bin\Debug\netcoreapp3.1\lab2-7.dll
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\bin\Debug\netcoreapp3.1\lab2-7.pdb
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\obj\Debug\netcoreapp3.1\lab2-7.csprojAssemblyReference.cache
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\obj\Debug\netcoreapp3.1\lab2-7.AssemblyInfoInputs.cache
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\obj\Debug\netcoreapp3.1\lab2-7.AssemblyInfo.cs
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\obj\Debug\netcoreapp3.1\lab2-7.csproj.CoreCompileInputs.cache
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\obj\Debug\netcoreapp3.1\lab2-7.dll
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\obj\Debug\netcoreapp3.1\lab2-7.pdb
+C:\Users\maxbo\source\repos\lab2-7\lab2-7\obj\Debug\netcoreapp3.1\lab2-7.genruntimeconfig.cache
